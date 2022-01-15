@@ -1,0 +1,11 @@
+name: fiftyone-env
+prefix: /opt/conda/envs/sidewalk-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - pip:
+    - pytorch-lightning
+    - fiftyone
+    - jupyterlab
