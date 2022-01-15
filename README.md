@@ -9,4 +9,7 @@ In VS Code with the Remote containers extension press CTRL+P and select the opti
 ```
 python ./src/startserver.py 
 ```
-you will then see the web interface with the quickstart dataset. 
+you will then see the web interface of the quickstart dataset. 
+
+![](fiftyone.png)
+
