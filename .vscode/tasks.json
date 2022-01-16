@@ -6,7 +6,7 @@
 			"label": "docker-build",
 			"platform": "python",
 			"dockerBuild": {
-				"tag": "fiftyoneexamples:latest",
+				"tag": "fiftyone-examples:latest",
 				"dockerfile": "${workspaceFolder}/Dockerfile",
 				"context": "${workspaceFolder}",
 				"pull": true
@@ -19,7 +19,7 @@
 				"docker-build"
 			],
 			"python": {
-				"file": "docker/startserver.py"
+				"file": "src/startserver.py"
 			}
 		}
 	]
