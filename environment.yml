@@ -1,5 +1,5 @@
 name: fiftyone-env
-prefix: /opt/conda/envs/sidewalk-env
+prefix: /opt/conda/envs/fiftyone-env
 channels:
   - conda-forge
   - defaults
