@@ -9,3 +9,4 @@ dependencies:
     - pytorch-lightning
     - fiftyone
     - jupyterlab
+    - pycocotools

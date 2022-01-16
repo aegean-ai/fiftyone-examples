@@ -40,3 +40,108 @@
     Or copy and paste one of these URLs:
         http://ubuntu20.04-cuda11.4-vm:8889/lab?token=be0a3c0976542c192f30f3805d8985fe0ae5988c47461016
      or http://127.0.0.1:8889/lab?token=be0a3c0976542c192f30f3805d8985fe0ae5988c47461016
+[I 2022-01-16 00:22:34.994 ServerApp] jupyterlab | extension was successfully linked.
+[I 2022-01-16 00:22:35.003 ServerApp] Writing Jupyter server cookie secret to /home/vscode/.local/share/jupyter/runtime/jupyter_cookie_secret
+[I 2022-01-16 00:22:35.118 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-01-16 00:22:35.132 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-01-16 00:22:35.132 LabApp] JupyterLab extension loaded from /opt/conda/envs/fiftyone-env/lib/python3.7/site-packages/jupyterlab
+[I 2022-01-16 00:22:35.133 LabApp] JupyterLab application directory is /opt/conda/envs/fiftyone-env/share/jupyter/lab
+[I 2022-01-16 00:22:35.136 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-01-16 00:22:35.136 ServerApp] The port 8888 is already in use, trying another port.
+[I 2022-01-16 00:22:35.137 ServerApp] Serving notebooks from local directory: /workspaces/fiftyone-examples
+[I 2022-01-16 00:22:35.137 ServerApp] Jupyter Server 1.13.3 is running at:
+[I 2022-01-16 00:22:35.137 ServerApp] http://ubuntu20.04-cuda11.4-vm:8889/lab?token=72c384a1dc02d6a0c9cb6d52452fa5e1642772b9f32526bd
+[I 2022-01-16 00:22:35.137 ServerApp]  or http://127.0.0.1:8889/lab?token=72c384a1dc02d6a0c9cb6d52452fa5e1642772b9f32526bd
+[I 2022-01-16 00:22:35.138 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2022-01-16 00:22:35.140 ServerApp] No web browser found: could not locate runnable browser.
+[C 2022-01-16 00:22:35.141 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/vscode/.local/share/jupyter/runtime/jpserver-227-open.html
+    Or copy and paste one of these URLs:
+        http://ubuntu20.04-cuda11.4-vm:8889/lab?token=72c384a1dc02d6a0c9cb6d52452fa5e1642772b9f32526bd
+     or http://127.0.0.1:8889/lab?token=72c384a1dc02d6a0c9cb6d52452fa5e1642772b9f32526bd
+[I 2022-01-16 00:25:46.000 ServerApp] jupyterlab | extension was successfully linked.
+[I 2022-01-16 00:25:46.008 ServerApp] Writing Jupyter server cookie secret to /home/vscode/.local/share/jupyter/runtime/jupyter_cookie_secret
+[I 2022-01-16 00:25:46.125 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-01-16 00:25:46.140 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-01-16 00:25:46.141 LabApp] JupyterLab extension loaded from /opt/conda/envs/fiftyone-env/lib/python3.7/site-packages/jupyterlab
+[I 2022-01-16 00:25:46.142 LabApp] JupyterLab application directory is /opt/conda/envs/fiftyone-env/share/jupyter/lab
+[I 2022-01-16 00:25:46.144 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-01-16 00:25:46.145 ServerApp] The port 8888 is already in use, trying another port.
+[I 2022-01-16 00:25:46.146 ServerApp] Serving notebooks from local directory: /workspaces/fiftyone-examples
+[I 2022-01-16 00:25:46.146 ServerApp] Jupyter Server 1.13.3 is running at:
+[I 2022-01-16 00:25:46.146 ServerApp] http://ubuntu20.04-cuda11.4-vm:8889/lab?token=9dfd336d097e90c2763be790d8e5a2a7254cce4983f72a6d
+[I 2022-01-16 00:25:46.147 ServerApp]  or http://127.0.0.1:8889/lab?token=9dfd336d097e90c2763be790d8e5a2a7254cce4983f72a6d
+[I 2022-01-16 00:25:46.147 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2022-01-16 00:25:46.150 ServerApp] No web browser found: could not locate runnable browser.
+[C 2022-01-16 00:25:46.150 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/vscode/.local/share/jupyter/runtime/jpserver-207-open.html
+    Or copy and paste one of these URLs:
+        http://ubuntu20.04-cuda11.4-vm:8889/lab?token=9dfd336d097e90c2763be790d8e5a2a7254cce4983f72a6d
+     or http://127.0.0.1:8889/lab?token=9dfd336d097e90c2763be790d8e5a2a7254cce4983f72a6d
+[I 2022-01-16 12:01:26.271 ServerApp] jupyterlab | extension was successfully linked.
+[I 2022-01-16 12:01:26.279 ServerApp] Writing Jupyter server cookie secret to /home/vscode/.local/share/jupyter/runtime/jupyter_cookie_secret
+[I 2022-01-16 12:01:26.389 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-01-16 12:01:26.402 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-01-16 12:01:26.403 LabApp] JupyterLab extension loaded from /opt/conda/envs/fiftyone-env/lib/python3.7/site-packages/jupyterlab
+[I 2022-01-16 12:01:26.403 LabApp] JupyterLab application directory is /opt/conda/envs/fiftyone-env/share/jupyter/lab
+[I 2022-01-16 12:01:26.405 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-01-16 12:01:26.406 ServerApp] The port 8888 is already in use, trying another port.
+[I 2022-01-16 12:01:26.406 ServerApp] Serving notebooks from local directory: /workspaces/fiftyone-examples
+[I 2022-01-16 12:01:26.406 ServerApp] Jupyter Server 1.13.3 is running at:
+[I 2022-01-16 12:01:26.406 ServerApp] http://ubuntu20.04-cuda11.4-vm:8889/lab?token=b3f98e0a395cc16bacfa8304f5b80e0d71f0c65dce0b978e
+[I 2022-01-16 12:01:26.406 ServerApp]  or http://127.0.0.1:8889/lab?token=b3f98e0a395cc16bacfa8304f5b80e0d71f0c65dce0b978e
+[I 2022-01-16 12:01:26.406 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2022-01-16 12:01:26.408 ServerApp] No web browser found: could not locate runnable browser.
+[C 2022-01-16 12:01:26.408 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/vscode/.local/share/jupyter/runtime/jpserver-233-open.html
+    Or copy and paste one of these URLs:
+        http://ubuntu20.04-cuda11.4-vm:8889/lab?token=b3f98e0a395cc16bacfa8304f5b80e0d71f0c65dce0b978e
+     or http://127.0.0.1:8889/lab?token=b3f98e0a395cc16bacfa8304f5b80e0d71f0c65dce0b978e
+[I 2022-01-16 12:04:23.424 ServerApp] jupyterlab | extension was successfully linked.
+[I 2022-01-16 12:04:23.432 ServerApp] Writing Jupyter server cookie secret to /home/vscode/.local/share/jupyter/runtime/jupyter_cookie_secret
+[I 2022-01-16 12:04:23.542 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-01-16 12:04:23.555 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-01-16 12:04:23.556 LabApp] JupyterLab extension loaded from /opt/conda/envs/fiftyone-env/lib/python3.7/site-packages/jupyterlab
+[I 2022-01-16 12:04:23.557 LabApp] JupyterLab application directory is /opt/conda/envs/fiftyone-env/share/jupyter/lab
+[I 2022-01-16 12:04:23.559 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-01-16 12:04:23.559 ServerApp] The port 8888 is already in use, trying another port.
+[I 2022-01-16 12:04:23.561 ServerApp] Serving notebooks from local directory: /workspaces/fiftyone-examples
+[I 2022-01-16 12:04:23.561 ServerApp] Jupyter Server 1.13.3 is running at:
+[I 2022-01-16 12:04:23.561 ServerApp] http://ubuntu20.04-cuda11.4-vm:8889/lab?token=16e6520b8275f4599097d33318228733c39026645b5437b8
+[I 2022-01-16 12:04:23.562 ServerApp]  or http://127.0.0.1:8889/lab?token=16e6520b8275f4599097d33318228733c39026645b5437b8
+[I 2022-01-16 12:04:23.562 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2022-01-16 12:04:23.564 ServerApp] No web browser found: could not locate runnable browser.
+[C 2022-01-16 12:04:23.564 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/vscode/.local/share/jupyter/runtime/jpserver-209-open.html
+    Or copy and paste one of these URLs:
+        http://ubuntu20.04-cuda11.4-vm:8889/lab?token=16e6520b8275f4599097d33318228733c39026645b5437b8
+     or http://127.0.0.1:8889/lab?token=16e6520b8275f4599097d33318228733c39026645b5437b8
+[I 2022-01-16 12:08:43.516 ServerApp] jupyterlab | extension was successfully linked.
+[I 2022-01-16 12:08:43.524 ServerApp] Writing Jupyter server cookie secret to /home/vscode/.local/share/jupyter/runtime/jupyter_cookie_secret
+[I 2022-01-16 12:08:43.636 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-01-16 12:08:43.650 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-01-16 12:08:43.651 LabApp] JupyterLab extension loaded from /opt/conda/envs/fiftyone-env/lib/python3.7/site-packages/jupyterlab
+[I 2022-01-16 12:08:43.651 LabApp] JupyterLab application directory is /opt/conda/envs/fiftyone-env/share/jupyter/lab
+[I 2022-01-16 12:08:43.654 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-01-16 12:08:43.654 ServerApp] The port 8888 is already in use, trying another port.
+[I 2022-01-16 12:08:43.654 ServerApp] Serving notebooks from local directory: /workspaces/fiftyone-examples
+[I 2022-01-16 12:08:43.654 ServerApp] Jupyter Server 1.13.3 is running at:
+[I 2022-01-16 12:08:43.654 ServerApp] http://ubuntu20.04-cuda11.4-vm:8889/lab?token=f3cd2474c7f8f6782abab301a39bb5544f98af21ed739418
+[I 2022-01-16 12:08:43.654 ServerApp]  or http://127.0.0.1:8889/lab?token=f3cd2474c7f8f6782abab301a39bb5544f98af21ed739418
+[I 2022-01-16 12:08:43.654 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2022-01-16 12:08:43.656 ServerApp] No web browser found: could not locate runnable browser.
+[C 2022-01-16 12:08:43.657 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/vscode/.local/share/jupyter/runtime/jpserver-233-open.html
+    Or copy and paste one of these URLs:
+        http://ubuntu20.04-cuda11.4-vm:8889/lab?token=f3cd2474c7f8f6782abab301a39bb5544f98af21ed739418
+     or http://127.0.0.1:8889/lab?token=f3cd2474c7f8f6782abab301a39bb5544f98af21ed739418
